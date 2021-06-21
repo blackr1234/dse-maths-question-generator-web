@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/dse-maths-question-generator-web/static/css/main.ef7a88ee.chunk.css",
-    "main.js": "/dse-maths-question-generator-web/static/js/main.b88ff4b8.chunk.js",
-    "main.js.map": "/dse-maths-question-generator-web/static/js/main.b88ff4b8.chunk.js.map",
+    "main.css": "/dse-maths-question-generator-web/static/css/main.3de01c7e.chunk.css",
+    "main.js": "/dse-maths-question-generator-web/static/js/main.c580b857.chunk.js",
+    "main.js.map": "/dse-maths-question-generator-web/static/js/main.c580b857.chunk.js.map",
     "runtime-main.js": "/dse-maths-question-generator-web/static/js/runtime-main.0b9c7a1c.js",
     "runtime-main.js.map": "/dse-maths-question-generator-web/static/js/runtime-main.0b9c7a1c.js.map",
     "static/css/2.ad425a11.chunk.css": "/dse-maths-question-generator-web/static/css/2.ad425a11.chunk.css",
-    "static/js/2.2f6efc7e.chunk.js": "/dse-maths-question-generator-web/static/js/2.2f6efc7e.chunk.js",
-    "static/js/2.2f6efc7e.chunk.js.map": "/dse-maths-question-generator-web/static/js/2.2f6efc7e.chunk.js.map",
+    "static/js/2.d22e0fec.chunk.js": "/dse-maths-question-generator-web/static/js/2.d22e0fec.chunk.js",
+    "static/js/2.d22e0fec.chunk.js.map": "/dse-maths-question-generator-web/static/js/2.d22e0fec.chunk.js.map",
     "index.html": "/dse-maths-question-generator-web/index.html",
     "static/css/2.ad425a11.chunk.css.map": "/dse-maths-question-generator-web/static/css/2.ad425a11.chunk.css.map",
-    "static/css/main.ef7a88ee.chunk.css.map": "/dse-maths-question-generator-web/static/css/main.ef7a88ee.chunk.css.map",
-    "static/js/2.2f6efc7e.chunk.js.LICENSE.txt": "/dse-maths-question-generator-web/static/js/2.2f6efc7e.chunk.js.LICENSE.txt",
+    "static/css/main.3de01c7e.chunk.css.map": "/dse-maths-question-generator-web/static/css/main.3de01c7e.chunk.css.map",
+    "static/js/2.d22e0fec.chunk.js.LICENSE.txt": "/dse-maths-question-generator-web/static/js/2.d22e0fec.chunk.js.LICENSE.txt",
     "static/media/katex.min.css": "/dse-maths-question-generator-web/static/media/KaTeX_Typewriter-Regular.b6a56b14.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.0b9c7a1c.js",
     "static/css/2.ad425a11.chunk.css",
-    "static/js/2.2f6efc7e.chunk.js",
-    "static/css/main.ef7a88ee.chunk.css",
-    "static/js/main.b88ff4b8.chunk.js"
+    "static/js/2.d22e0fec.chunk.js",
+    "static/css/main.3de01c7e.chunk.css",
+    "static/js/main.c580b857.chunk.js"
   ]
 }
