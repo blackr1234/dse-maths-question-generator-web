@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dse-maths-question-generator-web/static/css/main.3de01c7e.chunk.css",
-    "main.js": "/dse-maths-question-generator-web/static/js/main.c580b857.chunk.js",
-    "main.js.map": "/dse-maths-question-generator-web/static/js/main.c580b857.chunk.js.map",
+    "main.js": "/dse-maths-question-generator-web/static/js/main.2dd34f5b.chunk.js",
+    "main.js.map": "/dse-maths-question-generator-web/static/js/main.2dd34f5b.chunk.js.map",
     "runtime-main.js": "/dse-maths-question-generator-web/static/js/runtime-main.0b9c7a1c.js",
     "runtime-main.js.map": "/dse-maths-question-generator-web/static/js/runtime-main.0b9c7a1c.js.map",
     "static/css/2.ad425a11.chunk.css": "/dse-maths-question-generator-web/static/css/2.ad425a11.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.ad425a11.chunk.css",
     "static/js/2.d22e0fec.chunk.js",
     "static/css/main.3de01c7e.chunk.css",
-    "static/js/main.c580b857.chunk.js"
+    "static/js/main.2dd34f5b.chunk.js"
   ]
 }
